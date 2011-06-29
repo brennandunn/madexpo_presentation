@@ -1,0 +1,39 @@
+body { background: #002b36; }
+
+#preso, .slide {
+  background: #073642;
+  color: #fdf6e3;
+}
+
+a { color: #268bd2; text-decoration: none; border-bottom: 1px dotted #268bd2;  }
+
+h2, h1 { padding: 0 0.55em; }
+
+.open h1 {
+  background: #3d5e5a;
+  border-radius: 5px;
+  text-transform: uppercase;
+  text-shadow: 0px 2px 3px #000;
+  width: 80%;
+  padding: 0.25em;
+  margin: 0 auto 2em auto;
+}
+
+.open h2 {
+  font-size: 2.5em;
+}
+
+pre.sh_sourceCode {
+  background: inherit;
+  color: #b58900;
+}
+
+pre.sh_sourceCode .sh_keyword {
+  color: #eee8d5;
+}
+
+pre.sh_sourceCode .sh_symbol {
+  color: #268bd2;
+}
+
+ul { list-style: bullet; }
