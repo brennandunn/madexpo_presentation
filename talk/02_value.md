@@ -17,7 +17,7 @@
 # Specs change often #
 
 !SLIDE
-## When specs are had to change, time and money are lost ##
+## When specs are hard to change, time and money are lost ##
 
 !SLIDE
 # How do you and your company manage change? #
