@@ -3,7 +3,7 @@
 # Writing Maintainable Code #
 ## Brennan Dunn, [We Are Titans](http://wearetitans.net) ##
 ## [@brennandunn](http://twitter.com/brennandunn) ##
-## _Archived at [http://heroku.com](http://heroku.com)_ ##
+## _Archived at:_ [http://madexpo-wmc.heroku.com](http://madexpo-wmc.heroku.com) ##
 
 !SLIDE
 # Who am I? #
