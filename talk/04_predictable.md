@@ -37,3 +37,7 @@
 
 !SLIDE
 # Great code is predictable, both in structure and placement #
+
+!SLIDE center
+## Read this: ##
+![CC](cleancode.jpg)
